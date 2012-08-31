@@ -19,11 +19,13 @@
 # FACELOCK
 ########################################################################
 
-# APKs
+# Blobs necessary for face lock security
+
 PRODUCT_COPY_FILES += \
 vendor/google/gapps/prebuilt/system/app/FaceLock.apk:system/app/FaceLock.apk \
 vendor/google/gapps/prebuilt/system/lib/libfacelock_jni.so:system/lib/libfacelock_jni.so \
 vendor/google/gapps/prebuilt/system/lib/libfilterpack_facedetect.so:system/lib/libfilterpack_facedetect.so \
+vendor/google/gapps/prebuilt/system/lib/libflint_engine_jni_api.so:system/lib/libflint_engine_jni_api.so \
 vendor/google/gapps/prebuilt/system/lib/libfrsdk.so:system/lib/libfrsdk.so \
 vendor/google/gapps/prebuilt/system/vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.3/left_eye-y0-yi45-p0-pi45-r0-ri20.2d_n2/full_model.bin:vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.3/left_eye-y0-yi45-p0-pi45-r0-ri20.2d_n2/full_model.bin \
 vendor/google/gapps/prebuilt/system/vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.3/left_eye-y0-yi45-p0-pi45-rn7-ri20.2d_n2/full_model.bin:vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.3/left_eye-y0-yi45-p0-pi45-rn7-ri20.2d_n2/full_model.bin \
