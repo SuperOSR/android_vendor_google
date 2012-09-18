@@ -38,7 +38,9 @@ vendor/google/gapps/prebuilt/system/app/Phonesky.apk:system/app/Phonesky.apk \
 vendor/google/gapps/prebuilt/system/app/QuickSearchBox.apk:system/app/QuickSearchBox.apk \
 vendor/google/gapps/prebuilt/system/app/SetupWizard.apk:system/app/SetupWizard.apk \
 vendor/google/gapps/prebuilt/system/app/YouTube.apk:system/app/YouTube.apk \
+vendor/google/gapps/prebuilt/system/etc/g.prop:system/etc/g.prop \
 vendor/google/gapps/prebuilt/system/etc/permissions/com.google.android.media.effects.xml:system/etc/permissions/com.google.android.media.effects.xml \
+vendor/google/gapps/prebuilt/system/etc/permissions/com.google.widevine.software.drm.xml:system/etc/permissions/com.google.widevine.software.drm.xml \
 vendor/google/gapps/prebuilt/system/etc/permissions/features.xml:system/etc/permissions/features.xml \
 vendor/google/gapps/prebuilt/system/framework/com.google.android.media.effects.jar:system/framework/com.google.android.media.effects.jar \
 vendor/google/gapps/prebuilt/system/framework/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar \
