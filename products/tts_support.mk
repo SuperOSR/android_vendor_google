@@ -25,8 +25,6 @@ vendor/google/gapps/prebuilt/system/app/Talkback.apk:system/app/Talkback.apk \
 vendor/google/gapps/prebuilt/system/lib/libflint_engine_jni_api.so:system/lib/libflint_engine_jni_api.so \
 vendor/google/gapps/prebuilt/system/lib/libpatts_engine_jni_api.so:system/lib/libpatts_engine_jni_api.so \
 vendor/google/gapps/prebuilt/system/lib/libpicowrapper.so:system/lib/libpicowrapper.so \
-#Missing lib
-#vendor/google/gapps/prebuilt/system/lib/libspeexresampler.so:system/lib/libspeexresampler.so \
 vendor/google/gapps/prebuilt/system/lib/libspeexwrapper.so:system/lib/libspeexwrapper.so \
 vendor/google/gapps/prebuilt/system/tts/lang_pico/de-DE_gl0_sg.bin:system/tts/lang_pico/de-DE_gl0_sg.bin \
 vendor/google/gapps/prebuilt/system/tts/lang_pico/de-DE_ta.bin:system/tts/lang_pico/de-DE_ta.bin \

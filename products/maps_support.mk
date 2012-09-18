@@ -20,5 +20,7 @@
 ########################################################################
 
 PRODUCT_COPY_FILES += \
+vendor/google/gapps/prebuilt/system/app/Maps.apk:system/app/Maps.apk \
+vendor/google/gapps/prebuilt/system/app/Street.apk:system/app/Street.apk \
 vendor/google/gapps/prebuilt/system/etc/permissions/com.google.android.maps.xml:system/etc/permissions/com.google.android.maps.xml \
 vendor/google/gapps/prebuilt/system/framework/com.google.android.maps.jar:system/framework/com.google.android.maps.jar

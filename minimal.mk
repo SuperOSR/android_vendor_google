@@ -17,9 +17,8 @@
 
 # This must be a common part
 $(call inherit-product, vendor/google/essencial.mk)
-	#$(call inherit-product, vendor/google/products/accounts_support.mk)
 	
 $(call inherit-product, vendor/google/products/talk_support.mk)
-$(call inherit-product, vendor/google/products/maps_support.mk)
 $(call inherit-product, vendor/google/products/voicesearch_support.mk)
+$(call inherit-product, vendor/google/products/videochat_support.mk)
 
