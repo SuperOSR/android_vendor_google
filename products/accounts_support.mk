@@ -22,7 +22,6 @@
 PRODUCT_COPY_FILES += \
 vendor/google/gapps/prebuilt/system/app/ChromeBookmarksSyncAdapter.apk:system/app/ChromeBookmarksSyncAdapter.apk \
 vendor/google/gapps/prebuilt/system/app/Gmail.apk:system/app/Gmail.apk \
-vendor/google/gapps/prebuilt/system/app/GmsCore.apk:system/app/GmsCore.apk \
 vendor/google/gapps/prebuilt/system/app/GoogleBackupTransport.apk:system/app/GoogleBackupTransport.apk \
 vendor/google/gapps/prebuilt/system/app/GoogleCalendarSyncAdapter.apk:system/app/GoogleCalendarSyncAdapter.apk \
 vendor/google/gapps/prebuilt/system/app/GoogleContactsSyncAdapter.apk:system/app/GoogleContactsSyncAdapter.apk \
@@ -45,4 +44,4 @@ vendor/google/gapps/prebuilt/system/etc/permissions/features.xml:system/etc/perm
 vendor/google/gapps/prebuilt/system/framework/com.google.android.media.effects.jar:system/framework/com.google.android.media.effects.jar \
 vendor/google/gapps/prebuilt/system/framework/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar \
 vendor/google/gapps/prebuilt/system/lib/libgcomm_jni.so:system/lib/libgcomm_jni.so
-
+#vendor/google/gapps/prebuilt/system/app/GmsCore.apk:system/app/GmsCore.apk \
