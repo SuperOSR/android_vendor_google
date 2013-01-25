@@ -19,5 +19,5 @@
 # Music support
 ########################################################################
 
-PRODUCT_COPY_FILES := \
+PRODUCT_COPY_FILES += \
 vendor/google/gapps/prebuilt/system/app/com.google.android.music.apk:system/app/com.google.android.music.apk
