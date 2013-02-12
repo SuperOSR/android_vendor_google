@@ -21,4 +21,4 @@
 
 PRODUCT_COPY_FILES += \
 vendor/google/gapps/prebuilt/system/app/GalleryGoogle.apk:system/app/GalleryGoogle.apk \
-vendor/google/gapps/prebuilt/system/app/liblightcycle.so:system/lib/liblightcycle.so
+vendor/google/gapps/prebuilt/system/lib/liblightcycle.so:system/lib/liblightcycle.so

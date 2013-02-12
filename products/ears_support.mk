@@ -21,4 +21,4 @@
 
 PRODUCT_COPY_FILES += \
 vendor/google/gapps/prebuilt/system/app/GoogleEars.apk:system/app/GoogleEars.apk \
-vendor/google/gapps/prebuilt/system/app/libvorbisencoder.so:system/lib/libvorbisencoder.so
+vendor/google/gapps/prebuilt/system/lib/libvorbisencoder.so:system/lib/libvorbisencoder.so
