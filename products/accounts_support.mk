@@ -20,8 +20,10 @@
 ########################################################################
 
 PRODUCT_COPY_FILES += \
+vendor/google/gapps/prebuilt/system/app/ConfigUpdater.apk:system/app/ConfigUpdater.apk \
 vendor/google/gapps/prebuilt/system/app/ChromeBookmarksSyncAdapter.apk:system/app/ChromeBookmarksSyncAdapter.apk \
 vendor/google/gapps/prebuilt/system/app/Gmail.apk:system/app/Gmail.apk \
+vendor/google/gapps/prebuilt/system/app/GmsCore.apk:system/app/GmsCore.apk \
 vendor/google/gapps/prebuilt/system/app/GoogleBackupTransport.apk:system/app/GoogleBackupTransport.apk \
 vendor/google/gapps/prebuilt/system/app/GoogleCalendarSyncAdapter.apk:system/app/GoogleCalendarSyncAdapter.apk \
 vendor/google/gapps/prebuilt/system/app/GoogleContactsSyncAdapter.apk:system/app/GoogleContactsSyncAdapter.apk \
@@ -46,4 +48,3 @@ vendor/google/gapps/prebuilt/system/framework/com.google.widevine.software.drm.j
 vendor/google/gapps/prebuilt/system/lib/libgcomm_jni.so:system/lib/libgcomm_jni.so \
 vendor/google/gapps/prebuilt/system/lib/libgtalk_jni.so:system/lib/libgtalk_jni.so \
 vendor/google/gapps/prebuilt/system/lib/libgtalk_stabilize.so:system/lib/libgtalk_stabilize.so
-#vendor/google/gapps/prebuilt/system/app/GmsCore.apk:system/app/GmsCore.apk \
