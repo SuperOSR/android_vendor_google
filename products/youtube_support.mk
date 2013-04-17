@@ -20,4 +20,4 @@
 ########################################################################
 
 PRODUCT_COPY_FILES += \
-vendor/google/gapps/prebuilt/system/app/YouTube.apk:system/app/YouTube.apk
+vendor/google/gapps/prebuilt/system/app/com.google.android.youtube.apk:system/app/com.google.android.youtube.apk
