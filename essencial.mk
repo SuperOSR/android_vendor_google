@@ -19,5 +19,4 @@
 # We need a way to prevent the stuff Google Apps replaces from being included in the build.
 # This is a hacky way to do that.
 PACKAGES.Email.OVERRIDES := Provision QuickSearchBox
-
-$(call inherit-product, vendor/google/products/accounts_support.mk)
+$(call inherit-product, vendor/google/products/gapps.mk)
