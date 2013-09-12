@@ -23,6 +23,7 @@ PRODUCT_COPY_FILES += \
 	vendor/google/proprietary/common/app/GoogleTTS.apk:system/app/GoogleTTS.apk \
 	vendor/google/proprietary/common/app/LatinImeDictionaryPack.apk:system/app/LatinImeDictionaryPack.apk \
 	vendor/google/proprietary/common/app/LatinIMEGoogle.apk:system/app/LatinIMEGoogle.apk \
+	vendor/google/proprietary/common/app/Maps.apk:system/app/Maps.apk
 	vendor/google/proprietary/common/app/MediaUploader.apk:system/app/MediaUploader.apk \
 	vendor/google/proprietary/common/app/NetworkLocation.apk:system/app/NetworkLocation.apk \
 	vendor/google/proprietary/common/app/Phonesky.apk:system/app/Phonesky.apk \
@@ -30,7 +31,8 @@ PRODUCT_COPY_FILES += \
 	vendor/google/proprietary/common/app/SetupWizard.apk:system/app/SetupWizard.apk \
 	vendor/google/proprietary/common/app/Talk.apk:system/app/Talk.apk \
 	vendor/google/proprietary/common/app/TalkBack.apk:system/app/TalkBack.apk \
-	vendor/google/proprietary/common/app/VoiceSearchStub.apk:system/app/VoiceSearchStub.apk
+	vendor/google/proprietary/common/app/VoiceSearchStub.apk:system/app/VoiceSearchStub.apk \
+	vendor/google/proprietary/common/app/YouTube.apk:system/app/YouTube.apk
 
 # GLibs
 PRODUCT_COPY_FILES += \
